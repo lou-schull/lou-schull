@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f5fff5; /* Vert clair doux */
+    color: #4d4d4d;
+    line-height: 1.6;
+}
+
+footer {
+    text-align: center;
+    background-color: #d8f5d3; /* Vert clair */
+    padding: 10px;
+    color: #3a6b35;
+    font-size: 0.9em;
+}

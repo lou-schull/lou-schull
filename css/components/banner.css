@@ -1,0 +1,18 @@
+.banner {
+    text-align: center;
+    background-color: #d8f5d3; /* Vert clair */
+    padding: 40px 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.banner h1 {
+    font-size: 2.5em;
+    color: #3a6b35; /* Vert plus foncé */
+    margin: 0;
+}
+
+.banner p {
+    font-size: 1.2em;
+    color: #5a8a53;
+    margin-top: 10px;
+}
